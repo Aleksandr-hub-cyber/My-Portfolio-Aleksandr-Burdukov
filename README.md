@@ -68,6 +68,7 @@
 
 ## 📜 Сертификаты / Курсы  
 <img width="1920" height="1080" alt="сертификат" src="https://github.com/user-attachments/assets/b33001eb-2518-4f49-925a-89cd130825e4" />
+<img width="1038" height="732" alt="image" src="https://github.com/user-attachments/assets/d7a1cd55-197e-44f8-90a7-0329c24ff3ca" />
 
 ---
 
